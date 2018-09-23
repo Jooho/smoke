@@ -1,4 +1,4 @@
 <?php
 
-echo "Welcome to the OpenShift 3 Roadshow Smoke Test Application - 2";
+echo "Welcome to the Red Hat Convergence Event in Toronto - Smoke Test Application";
 
